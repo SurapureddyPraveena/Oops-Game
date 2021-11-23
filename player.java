@@ -1,4 +1,4 @@
-package com.abhay;
+package com.praveena;
 
 public class Player1 {
     private String name;
